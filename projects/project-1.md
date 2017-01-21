@@ -21,7 +21,7 @@ The purpose of this project was to learn basic programming and video game design
 
 Overall the pong game was a goood way for students to learn the benefits of using runtime command line arguments. 
 
-You can watch the game played on [Youtube](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can watch the game played on [Youtube](https://www.youtube.com/watch?v=Iy7d7j49Gvs).
 
 
 
