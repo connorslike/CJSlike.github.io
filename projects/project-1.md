@@ -13,8 +13,8 @@ summary: Developed a ping pong game using the EZ library
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/pong2.png">
-  <img class="ui image" src="../images/pong3.jpg">
-  <img class="ui image" src="../images/pong4.jpg">
+  <img class="ui image" src="../images/pong3.png">
+  <img class="ui image" src="../images/pong4.png">
 </div>
 
 The purpose of this project was to learn basic programming and video game design using the EZ java library. The project itself was ment to practice implenting live commands and practice basic syntax and command line programming.
