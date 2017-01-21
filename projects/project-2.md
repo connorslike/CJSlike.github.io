@@ -2,23 +2,22 @@
 layout: project
 type: project
 image: images/slippah1.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Slippah
+permalink: projects/slippah
+date: 2016
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - CSS
+summary: An interactive quiz taking tool using mp4 video files made during ICS 311
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/slippah2.png">
+  <img class="ui image" src="../images/slippah3.png">
+</div>
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Slippah is an interactive quiz taking website created by the teacher of ICS 311. This website uses a combination of javascript and html/css to create interactive videos that allow students to test their knowledge about the video they just viewed. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
