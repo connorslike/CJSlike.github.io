@@ -17,9 +17,9 @@ summary: Developed a ping pong game using the EZ library
   <img class="ui image" src="../images/pong4.png">
 </div>
 
-The purpose of this project was to learn basic programming and video game design using the EZ java library. The project itself was ment to practice implenting live commands and practice basic syntax and command line programming.
+This is a game I developed in my ICS 111 class, which was an introduction to basic programming. The main purpose for this program was to introduce the class to programming in java and learn basic command line structure.
 
-Overall the pong game was a goood way for students to learn the benefits of using runtime command line arguments. 
+The majority of this program is created through the use of functions from the EZ library. The EZ library was a library created by the TA for the class in order to create a simple way for students to create a simple GUI while introducing them to the java environment. 
 
 You can watch the game played on [Youtube](https://www.youtube.com/watch?v=Iy7d7j49Gvs).
 
