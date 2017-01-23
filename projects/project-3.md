@@ -8,7 +8,7 @@ date: 2016
 labels:
   - HTML
   - CSS
-summary: Practive designing and implimenting a website 
+summary: Practive designing and implementing a website 
 ---
 
 
