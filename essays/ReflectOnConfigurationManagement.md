@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: Configuration Management
 date: 2017-01-20
 labels:
-  - Smart Questons 
+  - Configuration Management
 ---
 
 I think that configuration management is incredibly userful as far as keeping everyone on the same page as far
@@ -14,3 +14,4 @@ I think that in the professinal wordl git would be more useful for the work that
 have other places for us to store the code that we are working on. 
 
 <img class="ui image" src="../images/ConfiurationActivityModel.png">
+
