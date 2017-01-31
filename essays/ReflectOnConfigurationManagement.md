@@ -12,3 +12,5 @@ as topic as well as keeping everyone using the same format when it comes to comb
 is the more popular of the two as it allows people to use it rather than github is more just a place to store what they do
 I think that in the professinal wordl git would be more useful for the work that we are doing because most likely they will 
 have other places for us to store the code that we are working on. 
+
+<img class="ui image" src="../images/ConfiurationActivityModel.png">
