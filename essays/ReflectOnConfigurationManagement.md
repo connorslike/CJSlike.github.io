@@ -11,3 +11,4 @@ Configuration management is essential when it comes to programming with a group.
 
 <img class="ui image" src="../images/ConfiurationActivityModel.png">
 
+The image above is just a more complex flow chart of how configuration management is used.
