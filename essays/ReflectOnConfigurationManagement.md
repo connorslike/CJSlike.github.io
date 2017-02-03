@@ -7,11 +7,7 @@ labels:
   - Configuration Management
 ---
 
-I think that configuration management is incredibly userful as far as keeping everyone on the same page as far
-as topic as well as keeping everyone using the same format when it comes to combining everyones code. I think that git
-is the more popular of the two as it allows people to use it rather than github is more just a place to store what they do
-I think that in the professinal wordl git would be more useful for the work that we are doing because most likely they will 
-have other places for us to store the code that we are working on. 
+Configuration management is essential when it comes to programming with a group. If you do not have some type of configuration management there is no way to ensure that all of the programmers working on a project or on the same version of the project. It is also impossible to ensure that there is no collisions when it comes to two programmers testing on the same blocks of code. When using configuration management you at least ensure that the programmers are able to test locally without getting in the way of the other programmers.
 
 <img class="ui image" src="../images/ConfiurationActivityModel.png">
 
