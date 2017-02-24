@@ -41,3 +41,4 @@ labels:
   <div class="ui fluid image">
     <image src="/images/full.jpg"></image>
   </div>
+<p> As we can see a well formated site can be created with hardly any css. By implementing a UI Framework such as Semaantic-UI you will save yourself time and energy creating well made websites with a high level of functionality just by using simple commands. From my experience so far there is little to now downside to implement semantic in your code, and with little effort you can start creating high end websites in no time</p>
