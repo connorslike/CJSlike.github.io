@@ -30,8 +30,8 @@ labels:
 
 <p> Looking at both buttosns could you guess which button was harder to implement? Lets look at the code and see! </p>
 
-...
+```
 <button class="positive ui button">Left Button</button>
 
 <input type="button" id="myBtn" onclick="myFunction()" value="Button"
-...
+```
