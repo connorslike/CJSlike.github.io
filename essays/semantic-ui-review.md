@@ -38,4 +38,6 @@ labels:
 
 <p> As you can see even though the left button is much more detailed it is much easier to implement than normal html/css. Using Frameworks make implementing complex css easy and fast. The best thing about using a UI Framework is that you can implement it any place that you are able to call html/css and you do not need to download any librarys or files to make it work. You can make websites with a couple of simple commands like the one shown below.</p>
 
-
+  <div class="ui fluid image">
+    <image src="/images/full.jpg"></image>
+  </div>
