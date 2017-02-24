@@ -23,6 +23,6 @@ labels:
  Using a framework will allow you to do things with your website in minutes that would have normally taken you hours using pure CSS. 
  Take a look at the example below.</p>
 <div class="ui ordered horizontal list">
-  <button class="positive ui button">Positive Button</button>
-  <input type="button" id="myBtn" onclick="myFunction()" value="Button">
+  <a class="item"><button class="positive ui button">Positive Button</button></a>
+  <a class="item"><input type="button" id="myBtn" onclick="myFunction()" value="Button"></a>
 </div>
