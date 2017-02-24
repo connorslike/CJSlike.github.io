@@ -22,7 +22,8 @@ labels:
  Why waste your time learning a framework that basically does everything you already can do. The answer is time. 
  Using a framework will allow you to do things with your website in minutes that would have normally taken you hours using pure CSS. 
  Take a look at the example below.</p>
+ 
 <div class="ui ordered horizontal list">
-  <a class="item"><button class="positive ui button">Positive Button</button></a>
-  <a class="fitted item"><input type="button" id="myBtn" onclick="myFunction()" value="Button"></a>
+  <a class="fitted item"><button class="positive ui button">Left Button</button></a>
+  <a class="fitted item"><input type="button" id="myBtn" onclick="myFunction()" value="Right Button"></a>
 </div>
