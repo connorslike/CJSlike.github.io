@@ -24,5 +24,5 @@ labels:
  Take a look at the example below.</p>
 <div class="ui ordered horizontal list">
   <a class="item"><button class="positive ui button">Positive Button</button></a>
-  <a class="item"><input type="button" id="myBtn" onclick="myFunction()" value="Button"></a>
+  <a class="fitted item"><input type="button" id="myBtn" onclick="myFunction()" value="Button"></a>
 </div>
