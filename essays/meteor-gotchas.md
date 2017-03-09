@@ -19,6 +19,11 @@ Highlight “disable windows defender”<br>
 Click enable<br>
 Click apply<br>
 Click ok<br>
+
+<div>
+  <img class="ui image" src"https://www.windowscentral.com/sites/wpcentral.com/files/styles/larger/public/field/image/2016/09/turnoff-windows-defender.jpg?itok=GR_o0tKZ">
+</div>
+
 <p> And with luck you should have successfully sped up your indexing speeds!</p>
 
 <h2> Managing Too Many Tabs</h2>
