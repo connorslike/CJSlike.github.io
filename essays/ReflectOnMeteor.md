@@ -17,7 +17,7 @@ most interesting architectures to use.
 
 When you first start to setup Meteor you may notice something about Meteor. Loading takes time, a lot of time. In fact you may find yourself sitting around doing nothing for quite a long time when you first begin to set up Meteor. On the bright side it does get faster when you start building projects, but not by much. 
 
-
+<img class="ui image" src="../images/MeteorLoading.png">
 
 Above is a screen you should get familiar with as you will spend a lot of time looking at it. With whispers of a patch with faster loading speeds in the air, it has yet come to the general public. 
 
