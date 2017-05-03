@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ethical Delima of a Modern Programmer 
+title: Ethical Dilemma of a Modern Programmer 
 date: 2017-05-02
 labels:
   - Ethics
