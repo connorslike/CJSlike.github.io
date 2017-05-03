@@ -7,7 +7,7 @@ labels:
   - Ethics
 ---
 
-    The ethical dilemmas that programmers face vary due to the magnitude of problems a programmer may face. 
+   The ethical dilemmas that programmers face vary due to the magnitude of problems a programmer may face. 
   Depending on what you are programming you may be forced to change what you think is ethical or not. 
   For example a programmer creating a missile guidance system would have to ethically balance if they believe what they are 
   doing is right versus having a job. While as securities programmer may have to balance how secure they would like to 
