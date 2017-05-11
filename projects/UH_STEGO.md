@@ -27,8 +27,8 @@ UH Stego was a collaborative project with other talented programmers. Together w
 
 Above are two versions of the same image. The Image on the left is the original while the image on the right has embedded text in it. My role in UH Stego was to create the Encrypt and Decrypt pages of the application. While the application does not technically encrypt or decrypt data we used these terms because of their current popularity to increase the marketability of the application. We worked to create a simple user interface to encode messages into images and read messages that have been sent to you through other media.
 
-  <img src="../images/encoding.png">
-  <img  src="../images/decoded.png">
+  <img style="height: 250pt; width: 250pt;" src="../images/encoding.png">
+  <img style="height: 250pt; width: 250pt;" src="../images/decoded.png">
 
 ## My Experience with Stego
 
