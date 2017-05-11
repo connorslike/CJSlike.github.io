@@ -29,3 +29,11 @@ Above are two versions of the same image. The Image on the left is the original 
 Overall this was a great experience to create on of the many tools that are becoming more popular while the future of free speech becomes less guaranteed. While it was daunting to be put into a situation to use new technology such as Mongo DB, I believe that I have grown as a programmer by expanding the amount of tools I am familiar with.
 
 Using Github has been a humbling and eye opening experience. Being able to see submissions by my talented co-programmers I was able to see other trouble shooting techniques as well as coding styles merging with my own to create an application that I believe will be useful in the future of free speech. While there was some complications early in the development process I believe that working as a team truly makes programmers perform at their best.
+
+You can learn more at: [UH Stego.](https://scktech.github.io/)
+
+You can also visit my team members’s portfolios:
+
+[Sam Rasay](https://samrasay.github.io/)
+
+[Kurt Nikaitani](https://kknikk.github.io/)
