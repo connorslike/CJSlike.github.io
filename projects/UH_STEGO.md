@@ -8,5 +8,5 @@ date: 2017
 labels:
   - Javascript
   - Meteor/MongoDB
-summary: Developed a Steganography application that embeds text into an image.
+summary: A Steganography application that allows users to embed secret messages into photos
 ---
