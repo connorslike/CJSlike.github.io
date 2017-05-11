@@ -22,13 +22,9 @@ As students, many wish to communicate with others through other mediums besides 
 
 UH Stego was a collaborative project with other talented programmers. Together we successfully managed to distribute tasks and fix bugs without any real form of central leadership due to Git. Using the MileStones as "Due Dates" for our individual features we were able to complete the application on schedule with little rush.
 
-<div class="ui grid">
-  <div class="two wide column">
+<div>
   <img class="ui medium image" src="../images/beach.jpeg">
-  </div>
-  <div class="twp wide column">
   <img class="ui medium image" src="../images/HiddenMessage.jpeg">
-  </div>
 </div>
 
 Above are two versions of the same image. The Image on the left is the original while the image on the right has embedded text in it. My role in UH Stego was to create the Encrypt and Decrypt pages of the application. While the application does not technically encrypt or decrypt data we used these terms because of their current popularity to increase the marketability of the application. We worked to create a simple user interface to encode messages into images and read messages that have been sent to you through other media.
