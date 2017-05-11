@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/uhstego.png
-title: UH Stego 
+title: <br> UH Stego 
 permalink: projects/UH_STEGO
 date: 2017
 labels:
