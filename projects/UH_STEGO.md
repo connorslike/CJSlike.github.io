@@ -7,6 +7,7 @@ permalink: projects/UH_STEGO
 date: 2017
 labels:
   - Javascript
-  - Meteor/MongoDB
+  - Meteor
+  - MongoDB
 summary: A Steganography application that allows users to embed secret messages into photos
 ---
