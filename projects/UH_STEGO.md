@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/uhstego.png
 title: UH Stego 
-permalink: https://scktech.github.io/
+permalink: projects/UH_STEGO
 date: 2017
 labels:
   - Javascript
@@ -11,5 +11,5 @@ labels:
   - MongoDB
 summary: A Steganography application that allows users to embed secret messages into photos
 ---
-//projects/UH_STEGO
+<meta http-equiv="refresh" content="0; url=http://example.com/" />
 
