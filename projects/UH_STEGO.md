@@ -11,5 +11,5 @@ labels:
   - MongoDB
 summary: A Steganography application that allows users to embed secret messages into photos
 ---
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
+<meta http-equiv="refresh" content="0; url=https://scktech.github.io/" />
 
