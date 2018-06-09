@@ -9,7 +9,8 @@ labels:
   - Javascript
   - Meteor
   - MongoDB
-summary: A Steganography application that allows users to embed secret messages into photos
+  - Steganography
+summary: A Steganography web application that allows users to embed secret messages into photos. 
 ---
 <meta http-equiv="refresh" content="0; url=https://scktech.github.io/" />
 
