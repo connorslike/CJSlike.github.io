@@ -13,5 +13,5 @@ labels:
   - TCP/IP
 summary: A crypto currancy utilizing tcp/ip server/clients, and Block Chain concepts
 ---
-<meta http-equiv="refresh" content="0; url=https://trashboizllc.github.io/" />
+<meta http-equiv="refresh" content="0; url=https://github.com/TrashBoizLLC/TrashCoin/" />
 
