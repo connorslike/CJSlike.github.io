@@ -67,8 +67,18 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2012-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Oregon State University, Corvallis, OR",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2012-09-01",
+      "endDate": "2014-09-01",
       "gpa": "",
       "courses": [
       ]
