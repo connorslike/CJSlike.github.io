@@ -72,7 +72,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "Oregon State University, Corvallis, OR",
       "area": "Computer Science",
@@ -90,7 +90,10 @@
       "position": "Computer Technician",
       "startDate": "2016-06-20",
       "endDate": "Present",
-      "summary": "Maintaining University of Hawaii hardware and networking equipment. Trouble shooting issues on site",
+      "summary": "",
+      "highlights": [
+        "Maintaining University of Hawaii hardware and networking equipment. Trouble shooting issues on site"
+      ]     
     },
     {
       "company": "UH Information Technology Services",
