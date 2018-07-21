@@ -5,7 +5,7 @@
     "picture": "https://connorslike.github.io/images/crop.png",
     "email": "connorslike@gmail.com",
     "website": "https://connorslike.github.io",
-    "summary": "I am currently a student studying for a B.S. in Computer Science with a concentration in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "summary": "I am currently a student studying for a B.S. in Computer Science with a concentration in security, in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -28,7 +28,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of things",
       "keywords": [
       ]
     },
@@ -99,8 +99,20 @@
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-07-23",
+      "endDate": "2016-09-20",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Lab Monitor",
+      "website": "http://www.hawaii.edu/its/",
       "startDate": "2014-09-23",
-      "endDate": "2016-06-20",
+      "endDate": "2015-07-20",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
